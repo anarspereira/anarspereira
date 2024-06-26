@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   <br>
  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=anarspereira&theme=radical" />
   <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anarspereira&show_icons=true&theme=radical&line_height=21"/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=anarspereira&show_icons=true&theme=radical&line_height=21"/> -->
     <br>
 <!--<img align="center" src="https://github-profile-trophy.vercel.app/?username=anarspereira&theme=dracula" alt="Ana's github trophy"/> -->
 
