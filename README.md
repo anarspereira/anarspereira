@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ☀️ I'm Ana Rafaela and I'm from Portugal!
 
+👩🏽‍💻 I am a Workday Integration Consultant at Accenture.
+
 💻 I hold a Master's degree in Bioinformatics at the University of Minho, Braga, Portugal.
 
 🧬 My academic journey culminated in a Master's dissertation titled "Genomic profiling of gastrointestinal stromal tumours using whole-exome sequencing".
