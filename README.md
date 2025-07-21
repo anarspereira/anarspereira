@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🧬 My academic journey culminated in a Master's dissertation titled "Genomic profiling of gastrointestinal stromal tumours using whole-exome sequencing".
 
-🚀 I'm interested in learning more about data and machine learning, as I'm trying to become a data analyst or data engineer.
+🚀 I'm interested in learning more about data and machine learning, as I'm trying to become a data analyst.
 
 ---
 
@@ -82,5 +82,7 @@ Here are some ideas to get you started:
 ## ⚡ Fun facts
 
 🎵 I'm passionate about music and I know how to play guitar, flute, ukulele and a little bit of piano!
+
+📖 Reading books helps me escape reality.
 
 🏋️‍♀️ I love staying active and going to the gym!
