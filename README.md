@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ☀️ I'm Ana Rafaela and I'm from Portugal!
 
-👩🏽‍💻 I am a Workday Integration Consultant at Accenture.
+👩🏽‍💻 I am a Data Scientist Trainee at Nokia.
 
 💻 I hold a Master's degree in Bioinformatics at the University of Minho, Braga, Portugal.
 
-🧬 My academic journey culminated in a Master's dissertation titled "Genomic profiling of gastrointestinal stromal tumours using whole-exome sequencing".
+🧬 My academic journey culminated in a Master's dissertation titled "Genomic profiling of gastrointestinal stromal tumours using whole-exome sequencing", where I studied the genomic profile of GIST patients using whole-exome sequencing data and correlated the molecular profile with their clinical features, identifying clinically relevant genetic variants in GIST and contributing to understanding tumour genomics and potential therapeutic targets.
 
-🚀 I'm interested in learning more about data and machine learning, as I'm trying to become a data analyst.
+🚀 I'm driven by purpose so my goal is to create meaningful impact in healthcare through data-driven solutions!
 
 ---
 
