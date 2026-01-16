@@ -67,8 +67,8 @@ Here are some ideas to get you started:
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarspereira&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
 <!--    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />  -->
-<!-- </p> -->
----
+<!-- </p> 
+--- -->
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000&link=https://www.linkedin.com/in/ana-rafaela-pereira//)](https://www.linkedin.com/in/ana-rafaela-pereira/)
